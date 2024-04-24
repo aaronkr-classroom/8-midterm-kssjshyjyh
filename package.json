@@ -1,0 +1,18 @@
+{
+  "name": "8-midterm-kssjshyjyh",
+  "version": "1.0.0",
+  "description": "midterm test",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "jang sung hoon",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-ejs-layouts": "^2.5.1",
+    "http-status-codes": "^2.3.0",
+    "nodemon": "^3.1.0"
+  }
+}
